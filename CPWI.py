@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 18 12:52:21 2018
+Creation date: 06.04.2018
 
-##@author: student
+Katarzyna Filipiuk
+katarzyna.filipiuk@student.uw.edu.pl
+Urszula Romaniuk
+urszula.romaniuk@student.uw.edu.pl
+Izabela Szopa
+im.szopa@student.uw.edu.pl
+
+Version: 3.0
+Date: 19.04.2018
 """
 import numba
 from timeit import timeit
